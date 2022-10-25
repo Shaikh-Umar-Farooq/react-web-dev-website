@@ -33,7 +33,7 @@ width: 100%;
   height: 80px;
   display: flex;
   z-index: 2;
-  justify-content: start;
+  justify-content: flex-start;
   align-items: center;
   box-shadow:  0 5px 5px  grey;
 position: fixed;
@@ -77,7 +77,7 @@ position: fixed;
 
 .nav-text {
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
   align-items: center;
   color: grey;
   padding: 8px 0px 8px 16px;
@@ -121,7 +121,7 @@ position: fixed;
   width: 100%;
   height: 80px;
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
   align-items: center;
 }
 

@@ -11,50 +11,50 @@ function Html() {
 
             <div className="responsive-iframe">
               <iframe width="560" height="315" src="https://www.youtube.com/embed/hu-q2zYwEYs?rel=0"
-                title="YouTube video player" frameborder="0"
+                title="YouTube video player" frameBorder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen></iframe>
+                allowFullScreen></iframe>
             </div>
           </div>
-          <div class="all-videos-container">
-            <div class="header">All Videos</div>
-            <div class="all-videos">
-              <div class="video active">
-                <div class="thumbnail" data-id="hu-q2zYwEYs" data-title="Introduction">Introduction</div>
+          <div className="all-videos-container">
+            <div className="header">All Videos</div>
+            <div className="all-videos">
+              <div className="video active">
+                <div className="thumbnail" data-id="hu-q2zYwEYs" data-title="Introduction">Introduction</div>
               </div>
 
-              <div class="video ">
-                <div class="thumbnail" data-id="mbeT8mpmtHA" data-title="HTML Basics">HTML Basics</div>
+              <div className="video ">
+                <div className="thumbnail" data-id="mbeT8mpmtHA" data-title="HTML Basics">HTML Basics</div>
               </div>
 
-              <div class="video">
-                <div class="thumbnail" data-id="YwbIeMlxZAU" data-title="HTML Forms">HTML Forms</div>
+              <div className="video">
+                <div className="thumbnail" data-id="YwbIeMlxZAU" data-title="HTML Forms">HTML Forms</div>
               </div>
-              <div class="video">
-                <div class="thumbnail" data-id="D3iEE29ZXRM" data-title="CSS Basics">CSS Basics</div>
+              <div className="video">
+                <div className="thumbnail" data-id="D3iEE29ZXRM" data-title="CSS Basics">CSS Basics</div>
               </div>
-              <div class="video">
-                <div class="thumbnail" data-id="FHZn6706e3Q" data-title="CSS Classes & Selectors">CSS
+              <div className="video">
+                <div className="thumbnail" data-id="FHZn6706e3Q" data-title="CSS Classes & Selectors">CSS
                   Classes & Selectors</div>
               </div>
-              <div class="video">
-                <div class="thumbnail" data-id="kGW8Al_cga4" data-title="HTML 5 Semantics">HTML 5 Semantics
+              <div className="video">
+                <div className="thumbnail" data-id="kGW8Al_cga4" data-title="HTML 5 Semantics">HTML 5 Semantics
                 </div>
               </div>
-              <div class="video">
-                <div class="thumbnail" data-id="25R1Jl5P7Mw" data-title="Chrome Dev Tools">Chrome Dev Tools
+              <div className="video">
+                <div className="thumbnail" data-id="25R1Jl5P7Mw" data-title="Chrome Dev Tools">Chrome Dev Tools
                 </div>
               </div>
-              <div class="video">
-                <div class="thumbnail" data-id="XQaHAAXIVg8" data-title="CSS Layout & Position">CSS Layout &
+              <div className="video">
+                <div className="thumbnail" data-id="XQaHAAXIVg8" data-title="CSS Layout & Position">CSS Layout &
                   Position</div>
               </div>
-              <div class="video">
-                <div class="thumbnail" data-id="FMu2cKWD90g" data-title="Pseudo Classes & Elements">Pseudo
+              <div className="video">
+                <div className="thumbnail" data-id="FMu2cKWD90g" data-title="Pseudo Classes & Elements">Pseudo
                   Classes & Elements</div>
               </div>
-              <div class="video">
-                <div class="thumbnail" data-id="Xig7NsIE6DI" data-title=" Intro to Media Queries"> Intro to
+              <div className="video">
+                <div className="thumbnail" data-id="Xig7NsIE6DI" data-title=" Intro to Media Queries"> Intro to
                   Media Queries</div>
               </div>
 
